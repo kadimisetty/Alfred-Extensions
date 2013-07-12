@@ -1,5 +1,4 @@
 # Sri's Alfred v1.0 Extensions
-
 A collection of Alfred Extensions and Scripts I wrote to scratch my own itches.
 Use if you find helpful.
 

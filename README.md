@@ -1,6 +1,7 @@
-#Alfred-Extensions
+# Sri's Alfred v1.0 Extensions
 
-A collection of my Alfred Extensions and Scripts
+A collection of Alfred Extensions and Scripts I wrote to scratch my own itches.
+Use if you find helpful.
 
 * **Background Setter** : Set selected picture as desktop picture.
 * **Caffeine Toggler** : Toggle Caffiene. Starts Caffiene.app if not running.
@@ -8,6 +9,7 @@ A collection of my Alfred Extensions and Scripts
 * **VPN Toggler** : Toggles VPN network. (Network must be named VPN)
 * **Wi-fi Toggler** : Toggles the Wi-Fi network.
 
+<<<<<<< HEAD
 ## LICENSE
 The MIT License (MIT)
 
@@ -30,3 +32,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+=======
+##License
+Works well for me, and are relatively safe but for legal purposes, 
+use at your own risk anyway. Yada yada yada.
+
+Released under a LGPL license. 
+>>>>>>> 18c0646bd07cc6056642c0dc8af9eeff933465c9
